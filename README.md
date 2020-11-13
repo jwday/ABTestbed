@@ -1,4 +1,4 @@
-# ABTestbed
+# Air Bearing Test Platform
 Air bearing platform CAD files (entirely in .SLDPRT and .SLDASM as of 11/12/2020) for public use. Includes CAD model of propulsion system mounted on the top of the platform.
 
 ![Air bearing platform full CAD assembly screenshot](https://raw.githubusercontent.com/jwday/ABTestbed/master/FullAssembly_Capture.PNG)
